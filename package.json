@@ -1,4 +1,7 @@
 {
+  "scripts": {
+  "decrypt": "python3 decrypt-rc4/decrypt_miot_rc4.py"
+  },
   "dependencies": {
     "dotenv": "^17.2.2",
     "express": "^5.1.0",
